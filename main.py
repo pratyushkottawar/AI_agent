@@ -33,7 +33,7 @@ def main():
     #     return
     
     # print(response.text)
-    get_files_info(".","./calculator/pkg")
+    # get_files_info(".","./calculator/pkg")
     if args.verbose:
         print(f"User prompt: {args.user_prompt}")
         # print(f"Prompt tokens: {response.usage_metadata.prompt_token_count}")
