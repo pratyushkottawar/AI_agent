@@ -2,7 +2,7 @@
 
 > A sandboxed AI agent built in Python that uses Google's Gemini API to reason, plan, and interact with a local codebase — safely.
 
-![AI Agent Banner](https://images.unsplash.com/photo-1677442135703-1787eea5ce01?w=1200&h=400&fit=crop&q=80)
+![AI Agent Banner](hhttps://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fbernardmarr.com%2Fhow-ai-agents-will-revolutionize-your-day-to-day-lif%2F&ved=0CBYQjRxqFwoTCKiqkZfsrJUDFQAAAAAdAAAAABA4&opi=89978449)
 
 ---
 
