@@ -13,7 +13,7 @@ def write_file(working_directory: str, file_path: str, content: str) -> str:
         parent_dir=os.path.dirname(target_path)
         os.makedirs(parent_dir, exist_ok=True)
         
-    except exception as e:
+    except Exception as e:
         return f'Could not make the necessary directories for {target_path}.'
     
     with open(target_path, 'w') as f:
